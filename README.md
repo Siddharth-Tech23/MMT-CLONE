@@ -5,8 +5,6 @@ This project is created for educational purposes to practice front-end developme
 
 ## 📸 Demo
 
-![MakeMyTrip Clone Demo](./screenshot.png)
-
 ## 🚀 Features
 
 - Beautiful landing page similar to the MakeMyTrip website
