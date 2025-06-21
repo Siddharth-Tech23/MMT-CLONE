@@ -16,3 +16,14 @@ This project is created for educational purposes to practice front-end developme
 - 🌐 HTML5
 - 🎨 CSS3
 
+
+## 📧 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+- 📩 Email: siddharthagarwal2312@gmail.com
+
+---
+
+## 📣 Disclaimer
+
+This project is just for practice and learning purposes. All rights to the original MakeMyTrip brand and assets belong to their respective owners.
