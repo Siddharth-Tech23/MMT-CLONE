@@ -19,7 +19,7 @@ This project is created for educational purposes to practice front-end developme
 
 ## 📧 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/siddharth-agarwal-tech/)
 - 📩 Email: siddharthagarwal2312@gmail.com
 
 ---
