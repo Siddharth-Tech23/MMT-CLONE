@@ -3,8 +3,6 @@
 A simple front-end clone of the MakeMyTrip website built using HTML and CSS.  
 This project is created for educational purposes to practice front-end development, layout designing, and responsive web design concepts.
 
-## 📸 Demo
-
 ## 🚀 Features
 
 - Beautiful landing page similar to the MakeMyTrip website
@@ -19,4 +17,17 @@ This project is created for educational purposes to practice front-end developme
 - 🎨 CSS3
 
 ## 📂 Project Structure
+
+MakeMyTrip-Clone/
+├── images/               # All images used in the project (logo, backgrounds, icons, etc.)
+│   └── logo.png
+│   └── hero-bg.jpg
+│   └── flight.png
+│   └── hotel.png
+│   └── holiday.png
+│
+├── index.html            # Main HTML file (landing page)
+├── style.css             # External CSS stylesheet
+├── README.md             # Project description and documentation
+└── screenshot.png        # Preview image for README.md demo (optional)
 
